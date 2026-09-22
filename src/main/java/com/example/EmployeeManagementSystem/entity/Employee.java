@@ -1,4 +1,4 @@
-package com.example.CrudApp.entity;
+package com.example.EmployeeManagementSystem.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

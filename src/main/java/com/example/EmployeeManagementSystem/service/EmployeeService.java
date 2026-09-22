@@ -1,13 +1,9 @@
-package com.example.CrudApp.service;
+package com.example.EmployeeManagementSystem.service;
 
-import com.example.CrudApp.entity.Employee;
-import com.example.CrudApp.repository.EmployeeRepository;
+import com.example.EmployeeManagementSystem.entity.Employee;
+import com.example.EmployeeManagementSystem.repository.EmployeeRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.stereotype.Service;
-import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
 

@@ -1,11 +1,8 @@
-package com.example.CrudApp.controller;
+package com.example.EmployeeManagementSystem.controller;
 
-import com.example.CrudApp.entity.Employee;
-import com.example.CrudApp.service.EmployeeService;
+import com.example.EmployeeManagementSystem.entity.Employee;
+import com.example.EmployeeManagementSystem.service.EmployeeService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

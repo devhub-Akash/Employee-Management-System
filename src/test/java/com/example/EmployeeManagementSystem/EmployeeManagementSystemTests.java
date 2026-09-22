@@ -1,10 +1,10 @@
-package com.example.CrudApp;
+package com.example.EmployeeManagementSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudAppApplicationTests {
+class EmployeeManagementSystemTests {
 
 	@Test
 	void contextLoads() {
